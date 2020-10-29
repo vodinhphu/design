@@ -1,0 +1,39 @@
+#owlcarousel_upsell .owl-dots {
+    display: flex;
+    top: 0;
+    position: absolute;
+    right: 0;
+}
+.reviews-actions {
+    display: none !important;
+}
+
+/*product upsell*/
+.product-item-name {
+    display: flex;
+    hyphens: auto;
+    justify-content: center;
+    text-align: center;
+}
+.product-item .product-reviews-summary .rating-summary {
+    display: flex;
+    justify-content: center;
+    margin: 0%;
+}
+.product-item .price-box {
+    display: flex;
+    justify-content: center;
+}
+.product-reviews-summary .rating-summary {
+    position: relative;
+    text-align: left;
+    left: 0%;
+}
+.product-item-name {
+    height: 4rem;
+}
+/* */
+abs-product-link > a:hover, .product-item-name > a:hover, .product.name a > a:hover {
+    color: orangered;
+    text-decoration: none;
+}
