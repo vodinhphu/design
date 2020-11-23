@@ -7,5 +7,10 @@
          <css src="css/banner-text.css"/>
         <css src="css/bootstrap.min.css"/>
         <css src="css/feature.css"/>
+        <css src="css/listingPage.css"/>
+        <css src="css/detailPage.css"/>
+        <css src="css/slick.css"/>
+        <css src="css/carouselRelatedProduct.css"/>
+        <css src="css/carouselUpsellProduct.css"/>
     </head>
 </page>
